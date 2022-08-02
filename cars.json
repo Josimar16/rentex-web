@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "RS 5 Coupé",
+    "brand": "Audi",
+    "model": "electric",
+    "value": "R$ 120",
+    "url_image": "https://drive.google.com/file/d/1-jsLslCaZKi-nV_KkmQPNOBfX9taNiHJ/view?usp=sharing"
+  },
+  {
+    "id": "2",
+    "name": "Panamera",
+    "brand": "Porche",
+    "model": "gasoline",
+    "value": "R$ 340",
+    "url_image": "https://drive.google.com/file/d/1-_-FyZAIclpNn6jDfiM3EZSE0BzVEchB/view?usp=sharing"
+  },
+  {
+    "id": "3",
+    "name": "Corvette Z06",
+    "brand": "Chevrolet",
+    "model": "gasoline",
+    "value": "R$ 620",
+    "url_image": "https://drive.google.com/file/d/14oL3c1q0suu40jEAgsagxNI7_-3UIc1a/view?usp=sharing"
+  },
+  {
+    "id": "4",
+    "name": "Huracan",
+    "brand": "Lamborghini",
+    "model": "electric",
+    "value": "R$ 120",
+    "url_image": "https://drive.google.com/file/d/1UNzwuzc7KJRIPGVO0n0fSjvJNH-zVTax/view?usp=sharing"
+  },
+  {
+    "id": "5",
+    "name": "XC40",
+    "brand": "Volvo",
+    "model": "gasoline",
+    "value": "R$ 260",
+    "url_image": "https://drive.google.com/file/d/11VOeUaRezSdaY5c70b1SPuNcxEvhdUzy/view?usp=sharing"
+  },
+  {
+    "id": "6",
+    "name": "Lancer Evo X",
+    "brand": "Mitsubishi",
+    "model": "gasoline",
+    "value": "R$ 290",
+    "url_image": "https://drive.google.com/file/d/1CC76Ej77WqnK2x06Gz8gFoLfo0abButy/view?usp=sharing"
+  }
+]
